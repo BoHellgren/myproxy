@@ -6,7 +6,7 @@
   "author": "Rob Wu <rob@robwu.nl>",
   "repository": {
     "type": "git",
-    "url": "file:///C:/users/bo/cors-anywhere/"
+    "url": "https://github.com/BoHellgren/myproxy/"
   },
   "bugs": {
     "url": "https://github.com/Rob--W/cors-anywhere/issues/",
